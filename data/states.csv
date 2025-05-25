@@ -1,0 +1,37 @@
+State,Population (millions),Area (sq km),Literacy Rate (%),Region,Capital,Official Languages,Major Industries,GDP (billion USD)
+Uttar Pradesh,237.9,243290,69.7,North,Lucknow,Hindi,Agriculture and Food Processing,240.0
+Maharashtra,123.1,307713,82.3,West,Mumbai,"Marathi, Hindi",Manufacturing and IT,400.0
+Bihar,124.8,94163,61.8,East,Patna,"Hindi, Urdu",Agriculture and Food Processing,98.0
+West Bengal,99.6,88752,76.3,East,Kolkata,Bengali,Agriculture and Manufacturing,155.0
+Madhya Pradesh,85.4,308245,69.3,Central,Bhopal,Hindi,Agriculture and Mining,115.0
+Tamil Nadu,77.8,130058,80.1,South,Chennai,Tamil,Manufacturing and IT,245.0
+Rajasthan,79.3,342239,66.1,North,Jaipur,Hindi,Tourism and Handicrafts,126.0
+Karnataka,67.6,191791,75.4,South,Bengaluru,"Kannada, English",IT and Biotechnology,220.0
+Gujarat,63.9,196024,78.0,West,Gandhinagar,Gujarati,Petrochemicals and Textiles,224.0
+Andhra Pradesh,53.9,162970,67.0,South,Amaravati,Telugu,Agriculture and IT,110.0
+Odisha,46.4,155707,72.9,East,Bhubaneswar,Odia,Mining and Manufacturing,67.0
+Telangana,39.6,112077,66.5,South,Hyderabad,"Telugu, Urdu",IT and Pharmaceuticals,140.0
+Kerala,35.7,38863,94.0,South,Thiruvananthapuram,Malayalam,Tourism and IT,110.0
+Jharkhand,38.6,79714,66.4,East,Ranchi,"Hindi, Santhali",Mining and Manufacturing,40.0
+Assam,35.6,78438,72.2,Northeast,Dispur,"Assamese, Bengali",Oil and Tea,38.0
+Punjab,30.1,50362,75.8,North,Chandigarh,"Punjabi, Hindi",Agriculture and Food Processing,77.0
+Chhattisgarh,29.5,135191,70.3,Central,Raipur,Hindi,Mining and Power Generation,42.0
+Haryana,28.7,44212,76.6,North,Chandigarh,Hindi,Automobile and IT,110.0
+Delhi,20.6,1483,86.2,North,New Delhi,"Hindi, English, Punjabi",Services and IT,110.0
+Jammu and Kashmir,13.6,42241,67.2,North,Srinagar,"Urdu, Hindi, Dogri, Kashmiri",Tourism and Handicrafts,20.0
+Uttarakhand,11.2,53483,78.8,North,Dehradun,"Hindi, Sanskrit",Tourism and Pharmaceuticals,30.0
+Himachal Pradesh,7.5,55673,82.8,North,Shimla,Hindi,Tourism and Horticulture,22.0
+Tripura,4.2,10486,87.2,Northeast,Agartala,"Bengali, Kokborok",Agriculture and Handicrafts,8.0
+Meghalaya,3.3,22429,74.4,Northeast,Shillong,"English, Khasi, Garo",Mining and Tourism,6.0
+Manipur,3.1,22327,76.9,Northeast,Imphal,Manipuri,Handicrafts and Agriculture,4.0
+Nagaland,2.2,16579,79.6,Northeast,Kohima,English,Agriculture and Handicrafts,3.5
+Goa,1.6,3702,88.7,West,Panaji,"Konkani, Marathi",Tourism and Mining,11.0
+Arunachal Pradesh,1.6,83743,65.4,Northeast,Itanagar,English,Tourism and Forestry,3.0
+Puducherry,1.4,479,85.8,South,Puducherry,"Tamil, French, Malayalam, Telugu",Tourism and Fishing,5.0
+Mizoram,1.2,21081,91.3,Northeast,Aizawl,"Mizo, English",Agriculture and Handicrafts,2.5
+Chandigarh,1.2,114,86.0,North,Chandigarh,"Hindi, Punjabi",IT and Education,5.5
+Sikkim,0.7,7096,81.4,Northeast,Gangtok,"Nepali, English",Tourism and Pharmaceuticals,3.0
+Andaman and Nicobar Islands,0.4,8249,86.3,South,Port Blair,"Hindi, Bengali",Tourism and Fishing,1.0
+Dadra and Nagar Haveli and Daman and Diu,0.6,603,87.1,West,Daman,"Gujarati, Hindi, Marathi",Manufacturing and Tourism,3.0
+Lakshadweep,0.07,32,91.8,South,Kavaratti,"Malayalam, Hindi",Tourism and Fishing,0.2
+Ladakh,0.3,59146,65.0,North,Leh,"Ladakhi, Hindi, Urdu",Tourism and Handicrafts,1.0 
