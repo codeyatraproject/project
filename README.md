@@ -2,6 +2,8 @@
 
 **A data-driven journey through India's vibrant culture, history, and diversity**
 
+![Hosted Here - Click](https://incredible.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-239120?style=for-the-badge&logo=plotly&logoColor=white)
