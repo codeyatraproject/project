@@ -113,6 +113,7 @@ This educational application uses data from authoritative sources:
 - [Streamlit](https://streamlit.io) for the amazing framework
 - All the open-source libraries used in this project
 - The rich cultural heritage of India that inspired this data story
+- The original deployed version of this project uses snowflake as a backend for all data storage, to integrate snowflake into application refer SNOWFLAKE_INTEGRATION_GUIDE.md provided with the source code.
 
 ## License
 
